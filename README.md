@@ -1,4 +1,4 @@
-# 🚀 Personal Profile
+## 🧑‍💼 Personal Profile
 🙋🏼 Hello! I am Yizheng Wang (王一争). 
 
 I obtained my bachelor's degree 🎓 in Computer Science and Technology 💻 from [School of Information Science and Engineering](http://ise.ysu.edu.cn), [Yanshan University](http://www.ysu.edu.cn) (燕山大学，信息科学与工程学院).
@@ -7,7 +7,7 @@ Currently, I am pursuing my master's degree 🎓 at the [Institute of Fundamenta
 
 I am conducting scientific research at the [Malab](http://lab.malab.cn/~zq/) laboratory 🔬 and supervised by [Prof. Quan Zou](http://lab.malab.cn/~zq/) (邹权教授). My main research areas are bioinformatics 🧬 and machine learning 🤖, and some of my work has already been published in SCI journals.
 
-# 📒 Research Interest
+## 📒 Research Interest
 - Support bio-sequence machine (支持生物序列机)
 - Biological sequence classification (生物序列分类)
 - Biological interactions prediction (生物关联预测)
